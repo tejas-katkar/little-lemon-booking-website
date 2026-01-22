@@ -87,9 +87,9 @@ const Footer = () => {
           href='https://www.linkedin.com/in/marventures/'
           rel='noreferrer'
         >
-          Marvin M. Pacis
+          Tejas-k
         </a>
-        . Don't claim as your own.
+        
       </p>
     </footer>
   );
